@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá sou o Girino Maravilha!
 
-<!--
-**GirinoMaravilha/GirinoMaravilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Python com foco em IA, automação, gestão de dados e soluções para Gestão Ambiental.
+Apesar do "foco" especificado acima, gosto de participar de qualquer projeto "open-source" envolvendo a linguagem.
 
-Here are some ideas to get you started:
+## 👾 Principais frameworks que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Selenium
+  - Scrapy
+  - Sckit-learn
+  - Huggingface
+  - PyQT
+  - Pandas
+  - Matplotlib
+  - Pyautogui
+  - Dearpygui
+  - Geopandas
+  
+## 🌱 Projetos que estou realizando
+
+  - Automação em IA para analise estatisca de focos e prevenção da Dengue
+  - Verificador IA para análise de solo
+  - Aplicação para gestão e análise de efluentes para cidades municipais
+    
+## 𐀪𐀪 Projetos que eu gostaria de participar
+
+  - Qualquer projeto envolvendo Python é bem-vindo! Porém se quiser o maximo do meu potencial
+    veja minhas habilidades acima.
+
+## 📫 Contato
+
+  - Respondo tudo por email, no caso é o: lubuntupython@gmail.com
+
