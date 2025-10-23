@@ -1,4 +1,5 @@
-# Olá sou o Girino Maravilha!
+# Olá sou o Girino Maravilha! ![Static Badge](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=orange)
+
 
 Sou desenvolvedor Python com foco em IA, automação, gestão de dados e soluções para Gestão Ambiental.
 Apesar do "foco" especificado acima, gosto de participar de qualquer projeto "open-source" envolvendo a linguagem.
